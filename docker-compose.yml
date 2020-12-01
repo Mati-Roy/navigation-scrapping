@@ -1,0 +1,10 @@
+version: "3"
+services: 
+    node-server: 
+        build: 
+            context: node-server
+        working_dir: /home/node/app
+        volumes: 
+            - ./node-server:/home/node/app
+        command: node .
+

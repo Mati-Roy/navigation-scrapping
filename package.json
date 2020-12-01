@@ -1,0 +1,22 @@
+{
+  "name": "navigation-scrapping",
+  "version": "1.0.0",
+  "description": "Download content from page I visit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mati-Roy/navigation-scrapping.git"
+  },
+  "author": "Mati Roy, Anatoliy Toli Zaslavskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mati-Roy/navigation-scrapping/issues"
+  },
+  "homepage": "https://github.com/Mati-Roy/navigation-scrapping#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
